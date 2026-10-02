@@ -1,0 +1,69 @@
+﻿# AI Customer Support Knowledge Base
+
+## Company
+Company: NovaTech Store
+Support Hours: Monday to Saturday, 9:00 AM to 6:00 PM IST
+
+## Products
+
+### NovaBook Pro 14
+Price: ₹64,999
+Category: Laptop
+Warranty: 1 year
+Description: 14-inch productivity laptop suitable for programming, office work, and general use.
+
+### NovaPhone X
+Price: ₹29,999
+Category: Smartphone
+Warranty: 1 year
+Description: Smartphone with a high-resolution display, dual cameras, and all-day battery.
+
+### NovaBuds Air
+Price: ₹3,999
+Category: Wireless Earbuds
+Warranty: 6 months
+Description: Wireless earbuds with a charging case and Bluetooth connectivity.
+
+## Shipping Policy
+Standard delivery usually takes 3 to 7 business days.
+Express delivery usually takes 1 to 3 business days.
+Customers receive tracking information after the order is shipped.
+Delivery times may vary during holidays or unexpected delays.
+
+## Return Policy
+Products can be returned within 7 days of delivery if they are unused and in their original condition.
+Certain products may require an inspection before a return is approved.
+Damaged or incorrect items should be reported to customer support as soon as possible.
+
+## Refund Policy
+Approved refunds are processed after the returned product passes inspection.
+Refund processing time depends on the original payment method.
+Shipping charges may not be refundable in some cases.
+
+## Payment Policy
+We accept UPI, credit cards, debit cards, and net banking.
+If a payment is deducted but the order is not created, customers should contact support with the transaction details.
+
+## Warranty Policy
+Warranty covers manufacturing defects under normal usage.
+Accidental damage, liquid damage, and unauthorized repairs are not covered.
+Warranty claims may require proof of purchase and product inspection.
+
+## Account Support
+Customers can request help with login issues, account information, and password-related problems.
+Sensitive account or payment information should not be shared in chat.
+
+## Escalation Policy
+A support case should be escalated to a human agent when:
+1. The AI does not have enough information to answer.
+2. The customer's request involves sensitive account or payment information.
+3. The customer disputes a transaction or refund decision.
+4. The customer reports a serious unresolved product issue.
+5. The AI confidence is below the required threshold.
+
+## Support Guidelines
+- Give answers based on the available knowledge base.
+- Do not invent policies, prices, order information, or guarantees.
+- Ask for clarification when the customer's question is unclear.
+- Escalate cases that cannot be safely resolved.
+- Never request passwords, OTPs, or complete payment card details.
